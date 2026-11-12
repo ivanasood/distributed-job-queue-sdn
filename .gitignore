@@ -1,0 +1,48 @@
+# Compiled programs
+client_program
+manager_program
+worker_program
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+.AppleDouble
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+h1
+sh
+test.txt
+
+# Editor files
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*_backup.*
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local environment
+venv/
+
+# Temporary test artifacts
+tests/results/write_test.txt
+
+# Accidental empty files
+h1
+sh
+test.txt

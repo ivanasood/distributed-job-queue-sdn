@@ -1,0 +1,160 @@
+
+Connected to Job Manager
+Submitting: SUBMIT|99271|SUM|1|100
+Server response: RESULT|99271|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99272|FACTORIAL|5|0
+Server response: RESULT|99272|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99273|PRIME|17|0
+Server response: RESULT|99273|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99274|SUM|1|50
+Server response: RESULT|99274|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99361|SUM|1|100
+Server response: RESULT|99361|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99362|FACTORIAL|5|0
+Server response: RESULT|99362|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99363|PRIME|17|0
+Server response: RESULT|99363|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99364|SUM|1|50
+Server response: RESULT|99364|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99451|SUM|1|100
+Server response: RESULT|99451|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99452|FACTORIAL|5|0
+Server response: RESULT|99452|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99453|PRIME|17|0
+Server response: RESULT|99453|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99454|SUM|1|50
+Server response: RESULT|99454|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99541|SUM|1|100
+Server response: RESULT|99541|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99542|FACTORIAL|5|0
+Server response: RESULT|99542|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99543|PRIME|17|0
+Server response: RESULT|99543|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99544|SUM|1|50
+Server response: RESULT|99544|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99631|SUM|1|100
+Server response: RESULT|99631|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99632|FACTORIAL|5|0
+Server response: RESULT|99632|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99633|PRIME|17|0
+Server response: RESULT|99633|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99634|SUM|1|50
+Server response: RESULT|99634|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99721|SUM|1|100
+Server response: RESULT|99721|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99722|FACTORIAL|5|0
+Server response: RESULT|99722|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99723|PRIME|17|0
+Server response: RESULT|99723|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99724|SUM|1|50
+Server response: RESULT|99724|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99811|SUM|1|100
+Server response: RESULT|99811|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99812|FACTORIAL|5|0
+Server response: RESULT|99812|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99813|PRIME|17|0
+Server response: RESULT|99813|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99814|SUM|1|50
+Server response: RESULT|99814|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99901|SUM|1|100
+Server response: RESULT|99901|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99902|FACTORIAL|5|0
+Server response: RESULT|99902|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99903|PRIME|17|0
+Server response: RESULT|99903|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99904|SUM|1|50
+Server response: RESULT|99904|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|99991|SUM|1|100
+Server response: RESULT|99991|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|99992|FACTORIAL|5|0
+Server response: RESULT|99992|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|99993|PRIME|17|0
+Server response: RESULT|99993|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|99994|SUM|1|50
+Server response: RESULT|99994|COMPLETED|1275
+
+Connected to Job Manager
+Submitting: SUBMIT|100081|SUM|1|100
+Server response: RESULT|100081|COMPLETED|5050
+
+Connected to Job Manager
+Submitting: SUBMIT|100082|FACTORIAL|5|0
+Server response: RESULT|100082|COMPLETED|120
+
+Connected to Job Manager
+Submitting: SUBMIT|100083|PRIME|17|0
+Server response: RESULT|100083|COMPLETED|1
+
+Connected to Job Manager
+Submitting: SUBMIT|100084|SUM|1|50
+Server response: RESULT|100084|COMPLETED|1275

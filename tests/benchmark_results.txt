@@ -1,0 +1,9 @@
+=== BENCHMARK SUMMARY ===
+Total completed:
+40
+Worker distribution:
+     20 1
+     20 2
+Assignment distribution:
+     20 1
+     20 2
